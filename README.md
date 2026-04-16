@@ -2,6 +2,7 @@
 
 Content-based deduplication toolkit for images and videos across two folders.
 
+This project was developed with assistance from AI tools.
 ---
 
 ## 📦 Included Scripts
@@ -192,25 +193,9 @@ If enabled:
 
 ---
 
-## 🧼 Example Use Case
-
-You have:
-
-* Two accounts downloading media from the same site
-
-Goal:
-
-* Merge both collections
-* Remove duplicates
-* Keep only one copy per media item
-
-This toolkit handles that automatically.
-
----
-
 ## 📄 License
 
-Personal use / internal tooling
+MIT License
 
 ---
 

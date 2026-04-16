@@ -1,6 +1,5 @@
 """
 Cross-Folder Media Toolkit v3.1 (multicore)
-Author: ChatGPT
 
 Purpose
 -------

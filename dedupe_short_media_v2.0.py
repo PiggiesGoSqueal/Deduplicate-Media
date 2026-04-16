@@ -1,8 +1,6 @@
 """
 Cross-Folder Media Dedupe Toolkit v2.0
 
-Author: ChatGPT
-
 DESCRIPTION:
 - Compare Folder A + Folder B recursively
 - Detect duplicates via perceptual hashing (images/videos/gifs)
