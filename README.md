@@ -3,6 +3,7 @@
 Content-based deduplication toolkit for images and videos across two folders.
 
 This project was developed with assistance from AI tools.
+
 ---
 
 ## 📦 Included Scripts
